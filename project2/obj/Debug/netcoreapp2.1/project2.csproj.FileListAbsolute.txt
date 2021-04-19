@@ -1,0 +1,11 @@
+C:\Users\Toshiba\Desktop\NLP\2014510048_Melda_Karadag_nlp2\project2\bin\Debug\netcoreapp2.1\project2.deps.json
+C:\Users\Toshiba\Desktop\NLP\2014510048_Melda_Karadag_nlp2\project2\bin\Debug\netcoreapp2.1\project2.runtimeconfig.json
+C:\Users\Toshiba\Desktop\NLP\2014510048_Melda_Karadag_nlp2\project2\bin\Debug\netcoreapp2.1\project2.runtimeconfig.dev.json
+C:\Users\Toshiba\Desktop\NLP\2014510048_Melda_Karadag_nlp2\project2\bin\Debug\netcoreapp2.1\project2.dll
+C:\Users\Toshiba\Desktop\NLP\2014510048_Melda_Karadag_nlp2\project2\bin\Debug\netcoreapp2.1\project2.pdb
+C:\Users\Toshiba\Desktop\NLP\2014510048_Melda_Karadag_nlp2\project2\obj\Debug\netcoreapp2.1\project2.csprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\NLP\2014510048_Melda_Karadag_nlp2\project2\obj\Debug\netcoreapp2.1\project2.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\NLP\2014510048_Melda_Karadag_nlp2\project2\obj\Debug\netcoreapp2.1\project2.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\NLP\2014510048_Melda_Karadag_nlp2\project2\obj\Debug\netcoreapp2.1\project2.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\NLP\2014510048_Melda_Karadag_nlp2\project2\obj\Debug\netcoreapp2.1\project2.dll
+C:\Users\Toshiba\Desktop\NLP\2014510048_Melda_Karadag_nlp2\project2\obj\Debug\netcoreapp2.1\project2.pdb
